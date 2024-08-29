@@ -56,4 +56,4 @@ We welcome contributions from developers, NGOs, and anyone passionate about impr
 3. Submit a pull request explaining your changes.
 For major changes, please open an issue first to discuss what you would like to improve.
 
-*ResqueNet is developed as part of Hackfest 24, with the goal of revolutionizing disaster management through real-time data and smart logistics.*
+*ResqueNet is developed as part of SAP Hackfest 24, with the goal of revolutionizing disaster management through real-time data and smart logistics.*
