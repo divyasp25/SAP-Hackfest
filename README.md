@@ -4,12 +4,11 @@ ResqueNet is an innovative solution designed to streamline disaster relief coord
 - [Problem Statement](#problem-statement)
 - [Key Features](#key-features)
 - [Solution](#solution)
-- [Who Are the Users?](#who-are-the-users)
+- [Who Are the Users](#who-are-the-users)
 - [Development Plan](#development-plan)
 - [Market Analysis](#market-analysis)
 - [Revenue and Marketing Strategy](#revenue-and-marketing-strategy)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Problem Statement
 Disaster relief efforts often face critical challenges in efficiently matching aid supplies with the immediate needs of affected areas. Lack of coordination and real-time data leads to delays and unfulfilled urgent needs.
@@ -25,9 +24,9 @@ Disaster relief efforts often face critical challenges in efficiently matching a
 
 ## Who Are the Users?
 The platform serves the following stakeholders:
-- 1. **Affected Individuals** – People in disaster-struck areas who need aid.
-- 2. **NGOs and Organizations** – Aid providers looking to deliver resources effectively.
-- 3. **Delivery Teams** – Logistics personnel responsible for transporting aid to those in need.
+1. **Affected Individuals** – People in disaster-struck areas who need aid.
+2. **NGOs and Organizations** – Aid providers looking to deliver resources effectively.
+3. **Delivery Teams** – Logistics personnel responsible for transporting aid to those in need.
 ## Development Plan
 ### Short-Term Goals:
 - Establish a 3-digit hotline for easier access.
